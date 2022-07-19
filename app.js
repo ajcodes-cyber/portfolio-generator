@@ -1,3 +1,10 @@
+// Create new feature branch
+// Install the Inquirer package
+// Create the .gitignore file
+// Validate answers
+// Save your progress with git
+
+
 const fs = require('fs');
 const generatePage = require('./src/page-template');
 
