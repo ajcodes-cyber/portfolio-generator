@@ -30,3 +30,5 @@ fs.copyFile('./dist/index.html', fileContent, err => {
         message: 'File created!'
     });
 });
+
+module.exports = { writeFile, copyFile };
